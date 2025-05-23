@@ -2,3 +2,4 @@ streamlit==1.45.1
 graphviz==0.20.3
 watchdog==6.0.0
 st-link-analysis==0.3.0
+toolz==1.0.0
